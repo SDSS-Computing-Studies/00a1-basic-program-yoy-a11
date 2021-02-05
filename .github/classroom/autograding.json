@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Hello World",
+      "setup": "",
+      "run": "python3 assignment.py",
+      "input": "",
+      "output": "Hello World!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Create Assignment.py",
+      "setup": "",
+      "run": "python3 assignment2.py",
+      "input": "",
+      "output": "This is my second program.\r\nIt uses \"two commands\" to display the output.",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Joining Text",
+      "setup": "",
+      "run": "python3 assignment3.py",
+      "input": "",
+      "output": "Hello world! This is how multiple print statements are joined. Use end=\"\"",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
